@@ -8630,8 +8630,8 @@ h1, h2, h3, h4, h5,
         background: #1089ff;
         color: #fff; }
   .btn.btn-secondary {
-    background: #01d28e !important;
-    border: 1px solid #01d28e !important;
+    background: #dc3545 !important;
+    border: 1px solid #dc3545 !important;
     color: #fff !important; }
     .btn.btn-secondary:hover {
       border: 1px solid #01d28e;
