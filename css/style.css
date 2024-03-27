@@ -9009,7 +9009,7 @@ h1, h2, h3, h4, h5,
 .services.services-2 .icon {
   width: 110px;
   height: 110px;
-  background: #1089ff;
+  background: #dc3545;
   border: none; }
   .services.services-2 .icon span {
     color: #fff; }
@@ -9464,7 +9464,7 @@ textarea.form-control {
   .ftco-counter .text strong.number {
     font-weight: 300;
     font-size: 50px;
-    color: #1089ff; }
+    color: #dc3545; }
   .ftco-counter .text span {
     display: block;
     font-size: 18px;
